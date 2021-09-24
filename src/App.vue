@@ -11,7 +11,7 @@ import Introduce from './components/Introduce.vue'
 export default {
   name: 'App',
   components: {
-    Introduce,install
+    Introduce
   }
 }
 </script>
