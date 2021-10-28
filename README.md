@@ -19,3 +19,5 @@ yarn build-pretest
 yarn build-pro
 ```
 
+注意该工程用私有nuxsu的npm库，需要在.npmmrc中配置私有地址，请联系开发人员索取地址。
+
