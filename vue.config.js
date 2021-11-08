@@ -4,7 +4,7 @@
 const iksCssUtil = require('./vue.ikscss');
 module.exports = {
     // 基本路径
-    publicPath: "./",
+    publicPath: "/",
     // 输出文件目录
     outputDir: process.env.outputDir,
     pages: {
