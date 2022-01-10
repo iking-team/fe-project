@@ -10,8 +10,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "iking-ui": "^0.1.87",
     "vue": "^2.6.11",
     "vue-loader": "^15.9.8",
+    "vue-router": "^3.5.3",
     "vux": "^2.10.1",
     "vux-loader": "^1.2.9"
   },

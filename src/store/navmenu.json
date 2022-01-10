@@ -1,0 +1,95 @@
+[
+  {
+    "code": "KS000020191025142540000000PVS7",
+    "id": "KS000020191025142540000000PVS7",
+    "menuIcon": "iconfont icon-sd4-jibenxinxi",
+    "name": "信息管理",
+    "openMode": "FRAME",
+    "parentId": "ADMIN",
+    "url": "feurl:appBasicInfo"
+    
+  },
+  {
+    "children": [
+      {
+        "code": "KS0000202006171738440000000S01",
+        "id": "KS0000202006171738440000000SEG",
+        "menuIcon": "iconfont icon-jiaoseguanli",
+        "name": "操作日志",
+        "openMode": "FRAME",
+        "parentId": "KS000020191025143901000000123",
+        "url": "feurl:metaFrame"
+      },
+      {
+        "code": "KS0000202006171738440000000SEG01",
+        "id": "KS0000202006171738440000000SEG01",
+        "menuIcon": "iconfont icon-jiaoseguanli",
+        "name": "行为日志",
+        "openMode": "FRAME",
+        "parentId": "KS000020191025143901000000123",
+        "url": "feurl:fFormTemplateFrame"
+      },
+      {
+        "code": "KS0000202006171738440000000SEG",
+        "id": "KS0000202006171738440000000SEG",
+        "menuIcon": "iconfont icon-jiaoseguanli",
+        "name": "发布日志",
+        "openMode": "FRAME",
+        "parentId": "KS000020191025143901000000123",
+        "url": "feurl:fucntionConfig"
+      },
+      {
+        "code": "KS0000202006171738440000000SEJ",
+        "id": "KS0000202006171738440000000SEJ",
+        "menuIcon": "iconfont icon-jiaoseguanli",
+        "name": "删除日志",
+        "openMode": "FRAME",
+        "parentId": "KS000020191025143901000000123",
+        "url": "feurl:reportConfig"
+      },
+      {
+        "code": "KS0000202006171738440000000AAA",
+        "id": "KS0000202006171738440000000AAA",
+        "menuIcon": "iconfont icon-jiaoseguanli",
+        "name": "上传日志",
+        "openMode": "FRAME",
+        "parentId": "KS000020191025143901000000123",
+        "url": "feurl:workflowFrame"
+      }
+      
+    ],
+    "code": "KS000020191025143901000000123",
+    "id": "KS000020191025143901000000123",
+    "menuIcon": "iconfont icon-sd4-jianmo",
+    "name": "日志管理",
+    "parentId": "ADMIN"
+  },
+  {
+    "code": "KS000020191025144104000000PVT455",
+    "id": "KS000020191025144104000000PVT455",
+    "menuIcon": "iconfont icon-sd4-peizhi",
+    "name": "组织管理",
+    "openMode": "FRAME",
+    "parentId": "ADMIN",
+    "url": "feurl:unitConfig"
+  },
+  
+  {
+    "code": "KS000020191025144104000000DDD989",
+    "id": "KS000020191025144104000000DDD989",
+    "menuIcon": "iconfont icon-sd4-chengyuan",
+    "name": "推送管理",
+    "openMode": "FRAME",
+    "parentId": "ADMIN",
+    "url": "feurl:memberBasic"
+  },
+  {
+    "code": "KS000020191025144104000000EEE221",
+    "id": "KS000020191025144104000000EEE21",
+    "menuIcon": "iconfont icon-sd4-App",
+    "name": "发布管理",
+    "openMode": "FRAME",
+    "parentId": "ADMIN",
+    "url": "feurl:appPublish"
+  }
+]
