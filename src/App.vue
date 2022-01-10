@@ -2,6 +2,7 @@
   <div id="app">
     <img alt="fep logo" src="./assets/logo.png">
     <Introduce/>
+    
   </div>
 </template>
 
