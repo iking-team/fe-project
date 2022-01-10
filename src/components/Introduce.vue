@@ -4,7 +4,7 @@
     <p>
       该项目为前端开发工程，可以配合iking-ui组件库使用<br>
       相关开发文档请参见
-      <a href="https://iking-ui.com" target="_blank" rel="noopener">iking-ui 开发文档</a>.
+      <a href="http://10.88.3.20/ikingUi" target="_blank" rel="noopener">iking-ui 开发文档</a>.
     </p>
     <h3>安装 iking-ui 组件库</h3>
     <p>建议用yarn命令进行安装，执行命令 yarn add iking-ui 即可安装完成</p>
